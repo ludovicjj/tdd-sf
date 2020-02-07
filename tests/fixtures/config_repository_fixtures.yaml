@@ -1,0 +1,8 @@
+App\Entity\Config:
+    config0:
+        name: blocked
+        value: baddomaindb.fr
+
+    config1:
+        name: blocked
+        value: devildomaindb.com
